@@ -1,50 +1,42 @@
-## Your Name
+## Nabil Far 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an enthusiastic and highly motivated full stack Junior Developer. 
+After graduating from University with a degree in Applied Sciences, I spent eight years working for different pharmaceutical companies as a Laboratory Analyst. Because of my background I developed a strong analytical and logic thinking skill that I enjoyed during coding. I hope to work with others who are passionate about clean code, TDD and pair programming.
 
 ## Skills
 
-#### This Skill
+Skills I've developed through my previous work:
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Analytical
+In my role as analyst, I analysed data on a daily basis to check the correctness. For a research project I had to study scientific literature to find the genetic-code that I was looking for. In the following years I developed a keen eye for fine details.
 
-- Experience
-- Achievements
-- Evidence
+Problem solving 
+I am not afraid of challenges. Love finding a good solution for any issues. My final team-mates credited my positive influence as being a crucial aspect to our project success. All problems become smaller when you confront them instead of dodging them.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Team driving 
+I am energetic and ambitious and love to share this with my team. Always comfortable finding my place in a team. I see new challenges as opportunities to do something awesome. Team mates credited me for my openminded, easy going and professional personality.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### University of Amsterdam (September 2004 to July 2008)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Applied Sciences. BA.
+- Biology and Medical Laboratory
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bio Products Laboratory** (07/2015 - 01/2018)    
+*Technician*  
+**Janssen Biologics & Synco Bio Partners** (01/2013 - 01/2015)   
+*Process operator*
+**Public Health Service of Amsterdam** (03/2009 - 05/2011)    
+*Medical Analyst*  
+**Food and Consumer Product Safety Authority** (12/2008 - 03/2009)   
+*Molecular analyst*
+
+## Experience
+
+- Books
+- Cycling
+- Photography
+- Science
