@@ -13,10 +13,10 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 | Title | Timeframe | What is it?  | Technologies |  
 |---|---|---|---|
 | [Final Project](https://github.com/danieljonesdmj/acebook-ruff-criminals)  | 2 weeks  | What is it? | technologies  |  |
-| [Acebook](https://github.com/lubosmichalic/acebook-team-KILAS)  | 2 Week  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
-| [Impostagram](https://github.com/lubosmichalic/impostagram)  | 1 Weekend  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](https://impostagram.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
-| [Chitter Challenge](https://github.com/lubosmichalic/chitter-challenge)  | 1 Weekend  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](http://chitty-chitter.herokuapp.com/posts)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
-| [Airport Challenge](https://github.com/lubosmichalic/airport_challenge) | 1 Weekend  | First Weekend Challenge from Makers simulating Airport Air Traffic Controls System | Ruby, RSpec |  
+| [Acebook](https://github.com)  | 2 Week  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
+| [Impostagram](https://github.com)  | 1 Weekend  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](www.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
+| [Chitter Challenge](https://github.com)  | 1 Weekend  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](www.herokuapp.com)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
+| [Airport Challenge](https://github.com) | 1 Weekend  | First Weekend Challenge from Makers simulating Airport Air Traffic Controls System | Ruby, RSpec |  
 
 ## Skills
 
