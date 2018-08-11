@@ -1,12 +1,10 @@
-
 ## Nabil Far
 
  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)| [Contact](#contact)
 
-I am an enthusiastic and highly motivated full stack Junior Developer.I am a developer who trained at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love.
+I am an enthusiastic and highly motivated full stack Junior Developer.I am a developer who trained at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I would like to work at a company that encourages me to continue learning and keep pushing myself to become a better developer. 
 
-After graduating from University with a degree in Applied Sciences, I spent eight years working for different pharmaceutical companies as a Laboratory Analyst. Because of my background I developed a strong analytical and logic thinking skill that I enjoyed during coding. I hope to work with others who are passionate about clean code, TDD and pair programming.
-
+After graduating from University with a degree in Applied Sciences, I spent eight years working for different pharmaceutical companies as a Laboratory Analyst. Because of my background I developed a strong analytical and logic thinking skill that I enjoyed during coding. 
 
 ## Projects
 
@@ -21,18 +19,17 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 ## Skills
 
 #### Clean code
-Makers shaped and facilitated my want to be a purveyor of clean code. Always aiming to sharpen my toolset & craft well-written, readable code
-
+Makers shaped and facilitated my want to be a purveyor of clean, well-tested code. I use TDD to decrease the likelihood of introducing bugs, make my code easier to refactor, and provide confidence and focus to my development process. I make sure that my code is DRY and stick to good design principles, so as to write code that others can understand and that is easy to change. 
+ 
 #### Problem solving
-I am not afraid of challenges. Love finding a good solution for any issues. My final team-mates credited my positive influence as being a crucial aspect to our project success. All problems become smaller when you confront them instead of dodging them.
+I am not afraid of challenges. Love finding a good solution for any issues. I take a proactive approach to learning relevant new technologies for each project by reading the documentation and am taking special attention when it comes to learn or develop new knowledge and skills. My final team-mates credited my positive influence as being a crucial aspect to our project success. All problems become smaller when you confront them instead of dodging them.
 
 #### Team driving 
-I am energetic and ambitious and love to share this with my team. Always comfortable finding my place in a team. I see new challenges as opportunities to do something awesome. Team mates credited me for my openminded, easy going and professional personality.
-
+I am energetic and ambitious and love to share this with my team. Always comfortable finding my place in a team. I see new challenges as opportunities to do something awesome. Team mates credited me for my openminded, easy going and professional personality, deliver and receive feedback. I strive to apply XP values when collaborating on code with another person.
 
 ## Education
 
-#### Makers Academy (June 2018 to September 2018)
+#### Makers Academy, London, UK (June 2018 to September 2018)
 
 - Software Craftsmanship (OOD, TDD/BDD, DRY and SOLID Principles)
 - Best practices (XP Values, Agile approach)
@@ -43,30 +40,35 @@ I am energetic and ambitious and love to share this with my team. Always comfort
 - Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
 - Travis CI, CodeClimate, Heroku, PostgreSQL
 
-
-
-
-
-#### University of Amsterdam,  (2004 to 2008)
+#### University of Amsterdam, Netherlands (2004 to 2008)
 - BA in Applied Sciences. Biology and Medical Laboratory.  
-
 
 ## Experience
 
+#### Student at Makers Academy (2018) *London, UK*
 
-#### Bio Products Laboratory (2015 - 2018) *London, UK*
-As a technician i was responsible for:
+- Learnt how to learn independently and solve complex problems
+- Built simple command line apps and full stack web apps in Ruby and JavaScript
+- Focussed on TDD to maintain high code quality
+- Employed Agile methodology and XP values to facilitate successful teamwork
+Key skills: software craftsmanship, communication and collaboration, problem solving, fast learning
 
-#### Janssen Biologics & Synco Bio Partners (2013 - 2015) *Amsterdam, Netherlands*
-As a Process operator i was responsible for:
+#### Technician at Bio Products Laboratory (2015 - 2018) *London, UK*
 
-#### Public Health Service of Amsterdam (03/2009 - 05/2011) *Amsterdam, Netherlands*
-As a Medical Analyst i was responsible for:
+- The preparation of the Gammaplex (immunodeficiency medicine)
+- Quality monitoring by measuring and testing the medicine (PH  conductivity).
+- Bringing solutions and improvements in the process
+Key skills: teamwork, communication, organisational, problem solving, eye for detail.
 
+#### Technician at Janssen, Synco & GGD (2009 - 2015) *Amsterdam, Netherlands*
+
+- Following the documentation precisely to get high-quality product.
+- Testing the product to ensure all requirements have met 
+- Writing new and updating and improving old documentation
+Key skills: planning, maintaining records, decisions making, analysing, testing
 
 ## Languages
 - English, Dutch, Lebanese, Portugese
-
 
 ## Interests
 - Cycling
