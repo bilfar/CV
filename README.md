@@ -51,13 +51,15 @@ I am energetic and ambitious and love to share this with my team. Always comfort
 - Built simple command line apps and full stack web apps in Ruby and JavaScript
 - Focussed on TDD to maintain high code quality
 - Employed Agile methodology and XP values to facilitate successful teamwork
+
 Key skills: software craftsmanship, communication and collaboration, problem solving, fast learning
 
 #### Technician at Bio Products Laboratory (2015 - 2018) *London, UK*
 
 - The preparation of the Gammaplex (immunodeficiency medicine)
-- Quality monitoring by measuring and testing the medicine (PH  conductivity).
+- Quality monitoring by measuring and testing the medicine (PH, conductivity).
 - Bringing solutions and improvements in the process
+
 Key skills: teamwork, communication, organisational, problem solving, eye for detail.
 
 #### Technician at Janssen, Synco & GGD (2009 - 2015) *Amsterdam, Netherlands*
@@ -65,6 +67,7 @@ Key skills: teamwork, communication, organisational, problem solving, eye for de
 - Following the documentation precisely to get high-quality product.
 - Testing the product to ensure all requirements have met 
 - Writing new and updating and improving old documentation
+
 Key skills: planning, maintaining records, decisions making, analysing, testing
 
 ## Languages
