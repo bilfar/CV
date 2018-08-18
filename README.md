@@ -78,3 +78,16 @@ Key skills: planning, maintaining records, decisions making, analysing, testing
 ## Contact
 
 Please don't hesitate to contact me on <a href="https://www.linkedin.com/in/nabil-f-539253169/" rel="nofollow">LinkedIn </a>at any time if you are looking for a passionate, smart Junior Developer who prides themselves on using software craftsmanship best practices.
+
+
+<p align="left">
+ 
+  <a href="https://www.linkedin.com/in/nabil-far/">
+    <img src="https://i.imgur.com/LH8JNOT.png" alt="linkedin" hspace="50" height="42" width="150">
+  </a>
+  
+   <a href="mailto:nabilfar.contact@gmail.com">
+    <img src="https://i.imgur.com/LHIhU8v.png" alt="medium" hspace="50" height="34" width="45">
+  </a>
+</p>
+
