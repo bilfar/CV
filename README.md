@@ -8,13 +8,12 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 
 ## Projects
 
-| Title | Timeframe | What is it?  | Technologies |  
-|---|---|---|---|
-| [Final Project](https://github.com/danieljonesdmj/acebook-ruff-criminals)  | 2 weeks  | What is it? | technologies  |  |
-| [Acebook](https://github.com)  | 2 Week  | Group Project created using Rails similar to another popular social media website | Rails, RSpec, PostgreSQL, ActiveRecord, Bootstrap  |
-| [Impostagram](https://github.com)  | 1 Weekend  | Weekend Challenge in Rails that recreates yet another popular social media website [Impostagram on Heroku](www.herokuapp.com/) | Rails, RSpec, PostgreSQL, ActiveRecord,   |
-| [Chitter Challenge](https://github.com)  | 1 Weekend  | First Full-Stack, Heroku-deployed app done over the weekend mimicking Twitter [Chitter on Heroku](www.herokuapp.com)  | Ruby, RSpec, Sinatra, PostgreSQL, DataMapper |
-| [Airport Challenge](https://github.com) | 1 Weekend  | First Weekend Challenge from Makers simulating Airport Air Traffic Controls System | Ruby, RSpec |  
+| Project | Methodologies & processes | Technologies Used | Test Suites/CIs/CDs Employed|
+|--|--|--|--|
+| [Final project](https://github.com) Work in progress Team of 4 (10 days)   | 2 day sprint, Kanban (trello), daily standups, TDD | Python | JUnit |
+| [Acebook](https://github.com/danieljonesdmj/acebook-ruff-criminals) Group project at Makers Academy, building a social media website Solo (2.5 days)  | TDD, Kanban (trello) | Ruby on Rails , Devise | Rspec, Capybara, Selenium and SimpleCov, Travis and Code Climate  |
+| [Thermostat](https://github.com/bilfar/thermostat) Built during my first week learning JavaScript. Working individually . A one-page live updating thermometer app connecting to the Open Weather API Solo (2 days)  | TDD, Kanban (trello) | Javascript, jQuery, CSS/HTML, Bootstrap | Jasmine |
+| [PiratesBNB](https://github.com/dct-lau17/Makers-BNB) A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding Team of 5 (10 days)  | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS | Jasmine |
 
 ## Skills
 
@@ -69,9 +68,6 @@ Key skills: teamwork, communication, organisational, problem solving, eye for de
 - Writing new and updating and improving old documentation
 
 Key skills: planning, maintaining records, decisions making, analysing, testing
-
-## Languages
-- English, Dutch, Lebanese, Portugese
 
 ## Interests
 - Cycling
