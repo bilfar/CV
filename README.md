@@ -70,10 +70,7 @@ Key skills: teamwork, communication, organisational, problem solving, eye for de
 Key skills: planning, maintaining records, decisions making, analysing, testing
 
 ## Interests
-- Cycling
-- Books
-- Photography
-- Science
+Besides my big passion: coding,  I’m also having also two other loves in my life. The first love is videography. I love filming and editing movies as documentaries,  porters of just short videos. What about i hear you saying? well, it can be everything as friends, nature, city or something else. My second love, I called futuristic-digital, even if it sounds digital I love it. Here are a few examples: sci-fi series or movies (one of my favourite serie is the origin Night Rider), but I have also strong interested in Artificial-Intelligence, Virtual-Reality, a fan of gadget, love tech-news, electro music and trance music. My Favoured DJ's are the two Dutch DJ’s Tiesto and Armin van Burren.  
 
 ## Contact
 
