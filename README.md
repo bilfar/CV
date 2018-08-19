@@ -18,7 +18,7 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 ## Skills
 
 #### Clean code
-Makers shaped and facilitated my want to be a purveyor of clean, well-tested code. I use TDD to decrease the likelihood of introducing bugs, make my code easier to refactor, and provide confidence and focus to my development process. I make sure that my code is DRY and stick to good design principles, so as to write code that others can understand and that is easy to change. 
+Makers shaped and facilitated me to be a purveyor of clean, well-tested code. I use TDD to decrease the likelihood of introducing bugs, make my code easier to refactor, and provide confidence and focus to my development process. I make sure that my code is DRY and stick to good design principles, so as to write code that others can understand and that is easy to change. 
  
 #### Problem solving
 I am not afraid of challenges. Love finding a good solution for any issues. I take a proactive approach to learning relevant new technologies for each project by reading the documentation and am taking special attention when it comes to learn or develop new knowledge and skills. My final team-mates credited my positive influence as being a crucial aspect to our project success. All problems become smaller when you confront them instead of dodging them.
@@ -70,7 +70,7 @@ Key skills: teamwork, communication, organisational, problem solving, eye for de
 Key skills: planning, maintaining records, decisions making, analysing, testing
 
 ## Interests
-Besides my big passion: coding,  I’m also having two other loves in my life. The first love is videography. I love filming and editing videos as documentaries, portraits of just short movies. I hear you saying what about? well, it can be everything as friends, nature, city or something else. My second love, I called futuristic-digital, even if it sounds digital I love it. Here are a few examples: sci-fi series or movies (one of my favourite serie is the original Night Rider), but I have also very strong interests in artificial-intelligence, Virtual-Reality, gadget, tech-news, electro music and trance music. My favourite DJ's are the two Dutch DJ’s Tiesto and Armin van Buuren.  
+Besides my big passion: coding,  I’m also having two other loves in my life. The first love is videography. I love filming and editing videos as documentaries, portraits of just short movies. I hear you saying what about? well, it can be everything as friends, nature, city or something else. My second love, I called futuristic-digital, even if it sounds digital I love it. Here are a few examples: sci-fi series or movies (one of my favourite serie is the original Knight Rider), but I have also very strong interests in artificial-intelligence, Virtual-Reality, gadget, tech-news, electro music and trance music. My favourite DJ's are the two Dutch DJ’s Tiesto and Armin van Buuren.  
 
 ## Contact
 
