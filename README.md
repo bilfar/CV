@@ -8,12 +8,13 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 
 ## Projects
 
-| Project | Methodologies & processes | Technologies Used | Test Suites/CIs/CDs Employed|
+| Project | Methodologies & processes | Technologies Used | Test Suites|
 |--|--|--|--|
-| [Final project](https://github.com) Work in progress Team of 4 (10 days)   | 2 day sprint, Kanban (trello), daily standups, TDD | Python | JUnit |
-| [Acebook](https://github.com/danieljonesdmj/acebook-ruff-criminals) Group project at Makers Academy, building a social media website Solo (2.5 days)  | TDD, Kanban (trello) | Ruby on Rails , Devise | Rspec, Capybara, Selenium and SimpleCov, Travis and Code Climate  |
-| [Thermostat](https://github.com/bilfar/thermostat) Built during my first week learning JavaScript. Working individually . A one-page live updating thermometer app connecting to the Open Weather API Solo (2 days)  | TDD, Kanban (trello) | Javascript, jQuery, CSS/HTML, Bootstrap | Jasmine |
-| [PiratesBNB](https://github.com/dct-lau17/Makers-BNB) A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding Team of 5 (10 days)  | 2 day sprint, morning/afternoon standups, retrospectives, TDD | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, Jade, HTML, CSS | Jasmine |
+| [Ticketchain](https://github.com/bilfar/Blockchain-ticketing-app): Final group project, A Blockchain ticketing app that stores user transactions into our simple blockchain implemented in Ruby (10 days). |Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, React, Sinatra  | RSpec, Enzyme, Jest  |
+| [Acebook](https://github.com/bilfar/acebook-ruff-criminals): Group project, designed to replicate a professional working environment, focusing on using Agile process (10 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby on Rails, Devise | RSpec, Capybara, Travis |
+| [Thermostat](https://github.com/bilfar/thermostat): Built during my first week learning JavaScript. A one-page live updating thermometer app connecting to the Open Weather API (5 days).  | TDD, Agile, XP Values | Javascript, jQuery, CSS/HTML | Jasmine |
+| [PiratesBNB](https://github.com/bilfar/Makers-BNB): A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding (5 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, HTML/CSS | RSpec, Jasmine, Cypress |
+
 
 ## Skills
 
