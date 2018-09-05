@@ -12,9 +12,7 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 |--|--|--|--|
 | [Ticketchain](https://github.com/bilfar/Blockchain-ticketing-app): Final group project, A Blockchain ticketing app that stores user transactions into our simple blockchain implemented in Ruby (10 days). |Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, React, Sinatra  | RSpec, Enzyme, Jest  |
 | [Acebook](https://github.com/bilfar/acebook-ruff-criminals): Group project, designed to replicate a professional working environment, focusing on using Agile process (10 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby on Rails, Devise | RSpec, Capybara, Travis |
-| [Thermostat](https://github.com/bilfar/thermostat): Built during my first week learning JavaScript. A one-page live updating thermometer app connecting to the Open Weather API (5 days).  | TDD, Agile, XP Values | Javascript, jQuery, CSS/HTML | Jasmine |
 | [PiratesBNB](https://github.com/bilfar/Makers-BNB): A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding (5 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, HTML/CSS | RSpec, Jasmine, Cypress |
-
 
 ## Skills
 
