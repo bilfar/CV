@@ -11,9 +11,8 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 | Project | Methodologies & processes | Technologies Used | Test Suites|
 |--|--|--|--|
 | [Ticketchain](https://github.com/bilfar/Blockchain-ticketing-app): Final group project, A Blockchain ticketing app that stores user transactions into our simple blockchain implemented in Ruby (10 days). |Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, React, Sinatra  | RSpec, Enzyme, Jest  |
-| [Acebook](https://github.com/bilfar/acebook-ruff-criminals): Group project, designed to replicate a professional working environment, focusing on using Agile process (10 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby on Rails, Devise | RSpec, Capybara, Travis |
 | [PiratesBNB](https://github.com/bilfar/Makers-BNB): A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding (5 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, HTML/CSS | RSpec, Jasmine, Cypress |
-
+| [Thermostat](https://github.com/bilfar/Makers-BNB): To introduce myself to frontend development (5 days). | Test-driven development (TDD) | Javascript, JQuery, HTML, CSS, OpenWeather API | Jasmine |
 ## Skills
 
 #### Clean code
@@ -31,12 +30,10 @@ I am energetic and ambitious and love to share this with my team. Always comfort
 
 - Software Craftsmanship (OOD, TDD/BDD, DRY and SOLID Principles)
 - Best practices (XP Values, Agile approach)
-- Hungry to learn, Curiousity for coding and new technologies
-- Web Frameworks: Sinatra, Ruby on Rails, node.js/Express
-- Languages: Python, Ruby, JavaScript, HTML/CSS 
-- Ruby Full-Stack (Sinatra, DataMapper, Rails, ActiveRecord)
-- Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine
-- Travis CI, CodeClimate, Heroku, PostgreSQL
+- Web Frameworks: Sinatra, Ruby on Rails, Express
+- Languages: Ruby, JavaScript, HTML/CSS 
+- Ruby Full-Stack (Sinatra, Rails, PostgreSQL)
+- Testing Suites: RSpec, Capybara, Jasmine
 
 #### University of Amsterdam, Netherlands (2004 to 2008)
 - BA in Applied Sciences. Biology and Medical Laboratory.  
@@ -73,15 +70,11 @@ Besides my big passion: coding,  I’m also having two other loves in my life. T
 
 ## Contact
 
-Please don't hesitate to contact me on <a href="https://www.linkedin.com/in/nabil-f-539253169/" rel="nofollow">LinkedIn </a>at any time if you are looking for a passionate, smart Junior Developer who prides themselves on using software craftsmanship best practices.
+Please don't hesitate to contact me at any time if you are looking for a passionate, smart Junior Developer who prides themselves on using software craftsmanship best practices.
 
 
 <p align="left">
  
-  <a href="https://www.linkedin.com/in/nabil-far/">
-    <img src="https://i.imgur.com/LH8JNOT.png" alt="linkedin" hspace="50" height="42" width="150">
-  </a>
-  
    <a href="mailto:nabilfar.contact@gmail.com">
     <img src="https://i.imgur.com/LHIhU8v.png" alt="medium" hspace="50" height="34" width="45">
   </a>
