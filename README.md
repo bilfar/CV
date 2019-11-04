@@ -1,6 +1,6 @@
 ## Nabil Far
 
- [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)| [Contact](#contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)| [Contact](#contact)
 
 I am an enthusiastic and highly motivated full stack Junior Developer.I am a developer who trained at Makers Academy, a highly selective immersive program to learn to code, where I have had the time of my life learning something I love. I would like to work at a company that encourages me to continue learning and keep pushing myself to become a better developer. 
 
@@ -10,8 +10,8 @@ After graduating from University with a degree in Applied Sciences, I spent eigh
 
 | Project | Methodologies & processes | Technologies Used | Test Suites|
 |--|--|--|--|
-| [Ticketchain](https://github.com/bilfar/Blockchain-ticketing-app): Final group project, A Blockchain ticketing app that stores user transactions into our simple blockchain implemented in Ruby (10 days). |Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, React, Sinatra  | RSpec, Enzyme, Jest  |
-| [PiratesBNB](https://github.com/bilfar/Makers-BNB): A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding (5 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Ruby, Sinatra, SQL, Node, Express, Javascript, jQuery, HTML/CSS | RSpec, Jasmine, Cypress |
+| [Ticketchain](https://github.com/bilfar/Blockchain-ticketing-app): Final group project, A Blockchain ticketing app that stores user transactions into our simple blockchain implemented in Ruby (10 days). |Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Front-end: React, Javascript, HTML, CSS.<br>Back-end: Ruby, Sinatra. | RSpec, Enzyme, Jest  |
+| [PiratesBNB](https://github.com/bilfar/Makers-BNB): A pirate-themed clone of AirBNB, where sea-curious landlubbers can hire a ship for weekend marauding (5 days). | Kanban (trello), daily stand-ups, retros, TDD, Agile, XP Values | Front-end: Javascript, Express, HTML/CSS/ JQuery.<br> Back-end:  Ruby and Sinatra.  | RSpec, Jasmine, Cypress |
 | [Thermostat](https://github.com/bilfar/thermostat): To introduce myself to frontend development (5 days). | Test-driven development (TDD) | Javascript, JQuery, HTML, CSS, OpenWeather API | Jasmine |
 | [Bank-tech-test](https://github.com/bilfar/bank-tech-test): A tech-test set in Week 10 at Makers Academy. The aim is to practice OO design and TDD skills. | Test-driven development (TDD) | Ruby | Rspec |
 
